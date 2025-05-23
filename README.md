@@ -5,31 +5,24 @@ Praktikum 1 (Pertemuan 2)
 
 Praktikum 2 (Pertemuan 3)
 
-Menambahkan admin page untuk mengelola artikel image
-
-Membuat form tambah artikel image
-
-Membuat form edit artikel dan route ke edit view ketika button ubah di click image
-
-Membuat route delete artikel, untuk mengapus artikel tertentu berdasarkan id yang dikirim dengan cara meng-click button hapus image
+![image](https://github.com/user-attachments/assets/1af230ab-4104-4668-968a-5f5d1b391d8e)
+ketika terjadi error (Devlopment)
+![image](https://github.com/user-attachments/assets/f0a0812f-5abe-4c25-934a-d4d9da3da12f)
 
 Praktikum 3 (Pertemuan 4)
 
-Menambahkan widget artikel terkini dan memperbarui tampilan homepage image
+![image](https://github.com/user-attachments/assets/d0476814-fd68-4e51-821f-aeaccff3e41d)
 
-Menggunakan View Cell memungkinkan kita untuk memisahkan tampilan menjadi beberapa components
 
 Praktikum 4 (Pertemuan 5)
 
-Mmebuat login page, mengaplikasikan filter untuk otentikasi dan session image
+![image](https://github.com/user-attachments/assets/a6a5543e-ae3b-4ff5-b282-67b0062b1a03)
+
 Praktikum 5 (Pertemuan 6)
 
-Membuat pagination pada list artikel Screenshot 2025-04-28 204059 image
+![image](https://github.com/user-attachments/assets/d042372e-2793-47fc-8f47-a189de8c86df)
 
-Menambahkan kolom pencarian untuk memfilter artikel yang akan ditampilkan berdasarkan kesamaan judul yang di input pada kolom pencarian image image
 
 Praktikum 6 (Pertemuan 7)
 
-Membuat input type file untuk input gambar artikel image
-
-Nama gambar yang diupload akan disimpan didalam database image
+![image](https://github.com/user-attachments/assets/d03669f7-0301-4fee-9923-204ac3127ed8)
