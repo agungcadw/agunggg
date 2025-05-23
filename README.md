@@ -1,18 +1,7 @@
 Praktikum 1 (Pertemuan 2)
 
-Codeigneiter First Look Screenshot 2025-04-22 070954
+![image](https://github.com/user-attachments/assets/21066ac6-7f32-49ef-a3fc-aee55a053cbd)
 
-Mengubah Environment Variable: Ketika terjadi error (Production): image Ketika terjadi error (Development): image
-
-Membuat Page controller dan method about Screenshot 2025-04-22 071056
-
-Membuat View about.php dan mengubah routes /about agar me-return view about.php Screenshot 2025-04-22 071451
-
-Menambahkan template header dan footer Screenshot 2025-04-22 072108
-
-Memberi style dengan menambahkan style.css pada public directory Screenshot 2025-04-22 074003
-
-Menyelesaikan tampilan halaman lain Screenshot 2025-04-23 114814 Screenshot 2025-04-23 114821 Screenshot 2025-04-23 114827 Screenshot 2025-04-23 114833
 
 Praktikum 2 (Pertemuan 3)
 
